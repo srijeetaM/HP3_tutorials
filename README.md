@@ -1,2 +1,3 @@
 # HP3_tutorials
-Tutorial materials for HP3 course
+CUDA codes for HP3 tutorials.
+
