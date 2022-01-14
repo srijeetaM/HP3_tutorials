@@ -1,3 +1,8 @@
 # HP3_tutorials
 CUDA codes for HP3 tutorials.
 
+Module 1 : We explain a simple vector addition CUDA code for both host and kernel. Then showed some variation of the host code for taking inputs in different ways.
+
+
+
+>> Link for Google colab notebook: https://colab.research.google.com/drive/17yxmvRA_Yv_mADFmL_paf2NbmTRuCEHD?usp=sharing
