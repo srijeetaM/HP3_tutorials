@@ -6,3 +6,9 @@ Module 1 : We explain a simple vector addition CUDA code for both host and kerne
 
 
 >> Link for Google colab notebook: https://colab.research.google.com/drive/17yxmvRA_Yv_mADFmL_paf2NbmTRuCEHD?usp=sharing
+
+
+Module 2 : We explain different types of divergence and its effect on exucution time in GPU.
+
+
+>> Link for Google colab notebook: https://colab.research.google.com/drive/12YDm5HxgLGZJ9ZOoCDT0KJBguvJKLmka?usp=sharing
